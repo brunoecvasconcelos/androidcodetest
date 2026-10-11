@@ -1,0 +1,32 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore ACS editor directory
+.acside
+
+# Ignore Kotlin directory
+.kotlin
+
+# Ignore Gradle build output directory
+build
+# Chaves e credenciais privadas
+keystore.properties
+*.jks
+*.keystore
+*.p12
+local.properties
+
+# Artefatos de distribuicao
+*.apk
+*.aab
+*.idsig
+
+# Private signing files
+keystore.properties
+*.jks
+*.keystore
+*.p12
+local.properties
+*.apk
+*.aab
+*.idsig
